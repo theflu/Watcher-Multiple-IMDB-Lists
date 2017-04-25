@@ -1,5 +1,6 @@
-# Watcher-Multiple-IMDB-Lists
+# Watcher Multiple IMDB Lists
 Sync multiple IMDB lists/watchlists with Watcher
+Only tested with Watcher3
 
 ## Setup
 
